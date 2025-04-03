@@ -36,6 +36,8 @@ a = numpy.array([1, 2, 3])
 a
 ```
 
+Press `Ctrl+Enter` to execute cell and go to next cell.
+
 It should show this:
 
 ```
