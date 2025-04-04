@@ -1,7 +1,7 @@
 # Documentation for Jupyter Notebook project setup with uv
 
 There are many ways to setup Python and manage projects.
-We will use `uv` to setup a Jupyter Notebook project.
+We will use `uv` to setup and manage a Jupyter Notebook project.
 
 - [Install uv](./uv-install.md)
 - [Installing Python using uv](./python-install.md)
